@@ -1,4 +1,4 @@
-a[title] {
+a[href^="https"] {
     color: red;
 }
 ul + p {
